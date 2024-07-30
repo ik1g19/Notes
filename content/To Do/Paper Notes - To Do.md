@@ -1,0 +1,27 @@
+- [/] Intelligent Systems #task
+  - [/] Make [[Intelligent Systems]] Contents Page #task
+- [ ] Algorithmics #task
+  - [ ] Make Algorithmics Contents Page #task
+- [ ] Programming I #task
+  - [ ] Make Programming I Contents Page #task
+- [ ] Comp Systems I #task
+  - [ ] Make Comp Systems I Contents Page #task
+- [ ] Data Management #task
+  - [ ] Make Data Management Contents Page #task
+- [ ] Foundations of Comp Sci #task
+  - [ ] Make Foundations of Comp Sci Contents Page #task
+- [ ] Software Modelling and Design #task
+  - [ ] Make Software Modelling and Design Contents Page #task
+- [ ] Distributed Systems and Network #task
+  - [ ] Make Distributed Systems and Network Contents Page #task
+- [ ] Programming III #task
+  - [ ] Make Programming III Contents Page #task
+- [ ] Theory of Computing #task
+  - [ ] Make Theory of Computing Contents Page #task
+- [ ] Programming Language Concepts #task
+  - [ ] Make Programming Language Concepts Contents Page #task
+- [ ] Interaction Design #task
+  - [ ] Make Interaction Design Contents Page #task
+- [ ] Principles of Cyber Security #task
+  - [ ] Make Principles of Cyber Security Contents Page #task
+

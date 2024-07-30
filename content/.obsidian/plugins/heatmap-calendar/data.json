@@ -1,0 +1,94 @@
+{
+  "year": 2024,
+  "colors": {
+    "default": [
+      "#c6e48b",
+      "#7bc96f",
+      "#49af5d",
+      "#2e8840",
+      "#196127"
+    ],
+    "blue": [
+      "#8cb9ff",
+      "#69a3ff",
+      "#428bff",
+      "#1872ff",
+      "#0058e2"
+    ],
+    "orange": [
+      "#ffa244",
+      "#fd7f00",
+      "#dd6f00",
+      "#bf6000",
+      "#9b4e00"
+    ],
+    "pink": [
+      "#ff96cb",
+      "#ff70b8",
+      "#ff3a9d",
+      "#ee0077",
+      "#c30062"
+    ],
+    "orangetored": [
+      "#ffdf04",
+      "#ffbe04",
+      "#ff9a03",
+      "#ff6d02",
+      "#ff2c01"
+    ],
+    "purple": [
+      "#8a30f2",
+      "#7d1aef",
+      "#7d16e6",
+      "#6421cc",
+      "#4b0d7f"
+    ],
+    "tealGradient": [
+      "#34d399",
+      "#2cba87",
+      "#23a275",
+      "#1b8b64",
+      "#126453"
+    ],
+    "yellowGradient": [
+      "#facc15",
+      "#eab308",
+      "#ca8a04",
+      "#a16207",
+      "#854d0e"
+    ],
+    "cyanGradient": [
+      "#22d3ee",
+      "#0fcfe0",
+      "#00b8c8",
+      "#009ba7",
+      "#007885"
+    ],
+    "purpleGradient2": [
+      "#c030f2",
+      "#a029d9",
+      "#8022b1",
+      "#601b89",
+      "#401461"
+    ],
+    "red": [
+      "#a9415e",
+      "#93384f",
+      "#7d2f40",
+      "#672631",
+      "#511d22"
+    ]
+  },
+  "entries": [
+    {
+      "date": "1900-01-01",
+      "color": "#7bc96f",
+      "intensity": 5,
+      "content": ""
+    }
+  ],
+  "showCurrentDayBorder": true,
+  "defaultEntryIntensity": 4,
+  "intensityScaleStart": 1,
+  "intensityScaleEnd": 5
+}

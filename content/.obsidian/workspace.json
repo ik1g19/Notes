@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "1e81bdb615558665",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e5c1c265bf60ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4411281c916b719",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Mark Levine - The Jazz Theory Book.pdf",
+                "page": 36,
+                "left": 447,
+                "top": 617,
+                "zoom": 0.669327731092437
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "721d26d911a726dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e18fe09a4b734d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73acaa77aee361a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3daab51bd93ba7",
+        "type": "tabs",
+        "dimension": 70.05813953488372,
+        "children": [
+          {
+            "id": "09b9b167534f9a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Eigenfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9c10e8f4b42768",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6969e4c1a676fe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ea63f941bfa95cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cb0132838d04e325",
+        "type": "tabs",
+        "dimension": 29.941860465116278,
+        "children": [
+          {
+            "id": "6456cff3682d6554",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "ToC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14729554
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.25883865621816504,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "f4b7d22dc5da4834",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57430881c33913d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3122ff376677c2ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4159f5c32186b40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3652e473079e066c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b9cdb567149a975",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "31aeb5ac33f5f352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d4b292b3b9eb6a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "372c6d9b1b550520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4377c73b911eec6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "1e18fe09a4b734d6",
+  "lastOpenFiles": [
+    "Books/Mark Levine - The Jazz Theory Book.pdf",
+    "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+    "notes/The Jazz Theory Book/Basic Theory.md",
+    "Mark Levine - The Jazz Theory Book.png",
+    "Mark Levine - The Jazz Theory Book 10.png",
+    "Mark Levine - The Jazz Theory Book 9.png",
+    "Mark Levine - The Jazz Theory Book 8.png",
+    "Mark Levine - The Jazz Theory Book 7.png",
+    "Mark Levine - The Jazz Theory Book 6.png",
+    "Mark Levine - The Jazz Theory Book 5.png",
+    "Mark Levine - The Jazz Theory Book 4.png",
+    "Mark Levine - The Jazz Theory Book 3.png",
+    "Mark Levine - The Jazz Theory Book 2.png",
+    "_index.md",
+    "notes/Uni Content/Programming 2/Programming II ToC.md",
+    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
+    "notes/The Jazz Theory Book/Images",
+    "Books",
+    "notes/Learn OpenGL.md",
+    "notes/GitHub Actions - Getting Started.md",
+    "notes/Introduction to 3D Game Programming with DirectX 12.md",
+    "notes/Docker - Getting Started.md",
+    "notes/intelligent systems cropped.pdf",
+    "notes/inteliigent systems test.md",
+    "To Do/Trackers/Cleaning.md",
+    "To Do/Trackers/Studying.md",
+    "To Do/Trackers/Music Theory.md",
+    "To Do/Projects.canvas",
+    "To Do/Paper Notes - To Do.md",
+    "To Do/Things I am Putting Off Doing.md",
+    "To Do/Things Currently Working On.md",
+    "Daily Notes/2024-06-16.md",
+    "notes/(Computer Science) Frank Luna - Introduction to 3D Game Programming with DirectX 12-Mercury Learning & Information (2016) (1).pdf",
+    "To Do/pdf test.md",
+    "notes/Uni Content/Intelligent Systems/Intelligent Systems.md",
+    "To Do/Trackers/Guitar.md",
+    "To Do/Trackers/Productivity.md",
+    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
+    "To Do/Trackers/Reading.md",
+    "Daily Notes/Daily Notes Template.md",
+    "To Do/Trackers.canvas",
+    "To Do/Trackers",
+    "To Do/Working On.canvas",
+    "To Do/Tracking.canvas",
+    "notes/Medium Articles/Deploy Django AWS Fargate",
+    "notes/Learn Django",
+    "notes/Medium Articles",
+    "notes/Uni Content/Web and Cloud Based Security/Untitled",
+    "notes/Untitled.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Iteration and Streaming in Java.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Software Testing and Unit Testing.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Programming Concepts.canvas"
+  ]
+}

@@ -1,0 +1,17 @@
+- [ ] Cleaning Desk #task 
+- [ ] Fix full stack part of CV #task 
+- [ ] Buckshot style music #task
+- [ ] Laundry #task
+- [x] Sign Tenancy Change #task ✅ 2024-06-11
+- [x] Fix Gravity on Website #task ✅ 2024-06-05
+- [ ] FLStudio 8Bit and Retro/Synth Plugins #task
+- [x] Council tax #task ✅ 2024-06-11
+- [ ] XNA Tutorials from celeste r/Gamedev #task 
+- [ ] Pico8 #task
+- [x] Pick up prescription #task ✅ 2024-06-11
+- [x] New shampoo and conditioner #task ✅ 2024-06-11
+- [x] Throw out old bathroom stuff #task ✅ 2024-06-11
+- [x] Send people money for presents #task ✅ 2024-06-14
+- [x] Quit Job #task ✅ 2024-06-14
+- [ ] Open letters on desk #task
+- [ ] Contact AWS about extra usage #task

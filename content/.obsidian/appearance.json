@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "First level folder bg (Title only)",
+    "timeline",
+    "main.min",
+    "heatmaps"
+  ]
+}

@@ -1,0 +1,35 @@
+/* HEATMAPS */
+
+/* Change background color of boxes */
+.markdown-preview-view .heatmap-calendar-boxes li {
+  border: 1px solid var(--background-primary);
+  border-radius: 2px;
+}
+.markdown-preview-view .heatmap-calendar-boxes .isEmpty {
+  background-color: var(--background-secondary) !important;
+}
+
+/* Hide year and days */
+.heatmap-calendar-year {
+  display: none;
+}
+.heatmap-calendar-days {
+  display: none !important;
+  grid-gap: 0 !important;
+}
+
+/* Change months fonts */
+.heatmap-calendar-months {
+  color: var(--text-muted);
+  grid-gap: 0 !important;
+  font-size: 1.125em;
+}
+
+/* Resize boxes */
+.heatmap-calendar-boxes > li {
+  grid-template-rows: repeat(7, 10px) !important;
+  //margin-inline-start: 0px !important;
+  margin-right: 10px !important;
+  height: 10px !important;
+  width: 10px !important;
+}
