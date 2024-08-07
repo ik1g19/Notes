@@ -18,7 +18,7 @@ enableToc: false
 
 #### [[notes/Uni Content/Data Management/Data Management|Data Management]] 📝
 
-#### [[Programming II ToC|Programming II]] 📝 📙 **Interactive Canvas Notes!**
+#### [[Programming II ToC|Programming II]] 📝
 
 #### [[notes/Uni Content/Foundations of Comp Sci/Foundations of Comp Sci|Foundations of Comp Sci]] 📝 📙
 
@@ -50,7 +50,7 @@ enableToc: false
 
 #### [[notes/Uni Content/Computer Vision/Computer Vision ToC|Computer Vision]]
 
-#### Engineering Management and Law <font color="red">Formatting...</font>
+%%#### Engineering Management and Law%%
 
 #### [[Web and Cloud Based Security ToC]]
 

@@ -1,7 +1,3 @@
-<iframe src="https://drive.google.com/file/d/1Y9ZaKSHF84mek7wh-7G-pJWdIYpmHG83/preview" width="640" height="780" allow="autoplay"></iframe>
-
-
-
 - P1. Limits, Continuity and Derivatives
 - P2. Limits of Functions
 - P3. Types of Discontinuities
@@ -48,4 +44,7 @@
 - P38. Normal Vector from Plane Equation
 - P39. Distance Between a Point and a Plane
 - P40. History of AI
-- P42. Philosophy of Artificial inteliigence
+- P42. Philosophy of Artificial Intelligence
+
+
+<iframe src="https://drive.google.com/file/d/1Y9ZaKSHF84mek7wh-7G-pJWdIYpmHG83/preview" width="640" height="780" allow="autoplay"></iframe>

@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "90e5c1c265bf60ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4411281c916b719",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Mark Levine - The Jazz Theory Book.pdf",
-                "page": 36,
-                "left": 447,
-                "top": 617,
-                "zoom": 0.669327731092437
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "721d26d911a726dd",
         "type": "tabs",
         "children": [
@@ -33,9 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "9f100ab62efb23eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Uni PDFs/Distributed Systems and Networks.pdf",
+                "page": 92,
+                "left": -261,
+                "top": 617,
+                "zoom": 0.8
               }
             }
           }
@@ -71,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "progra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md"
               }
             }
           }
@@ -266,9 +260,41 @@
   },
   "active": "1e18fe09a4b734d6",
   "lastOpenFiles": [
+    "Uni PDFs/Distributed Systems and Networks.pdf",
+    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Reliable and Ordered Multicast.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Transactions.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Leader Election.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Web Services.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Remote Invocation (Section).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Mutual Exclusion.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical, Architectural and Fundamental Models.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/MQTT and CoAP (Distributed Systems & Networks).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+    "_index.md",
+    "notes/Uni Content/Intelligent Systems/Intelligent Systems.md",
+    "notes/Uni Content/Programming 2/Programming II ToC.md",
+    "notes/Uni Content/Programming 2/Contents/Iteration and Streaming in Java.md",
+    "notes/Uni Content/Programming 2/Contents/C Programming.md",
+    "notes/Uni Content/Programming 2/Contents/Software Testing and Unit Testing.md",
+    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
+    "File IO.canvas",
+    "PDF Clippings/Distributed Systems and Networks.png",
+    "PDF Clippings",
+    "Uni PDFs/Programming 2.pdf",
+    "Uni PDFs",
+    "Books",
+    "To Do/Projects.canvas",
+    "notes/Book Notes",
     "Books/Mark Levine - The Jazz Theory Book.pdf",
-    "notes/The Jazz Theory Book/The Major Scale and the II-V-I Progression.md",
-    "notes/The Jazz Theory Book/Basic Theory.md",
     "Mark Levine - The Jazz Theory Book.png",
     "Mark Levine - The Jazz Theory Book 10.png",
     "Mark Levine - The Jazz Theory Book 9.png",
@@ -278,48 +304,16 @@
     "Mark Levine - The Jazz Theory Book 5.png",
     "Mark Levine - The Jazz Theory Book 4.png",
     "Mark Levine - The Jazz Theory Book 3.png",
-    "Mark Levine - The Jazz Theory Book 2.png",
-    "_index.md",
-    "notes/Uni Content/Programming 2/Programming II ToC.md",
-    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
     "notes/The Jazz Theory Book/Images",
     "Books",
-    "notes/Learn OpenGL.md",
-    "notes/GitHub Actions - Getting Started.md",
-    "notes/Introduction to 3D Game Programming with DirectX 12.md",
-    "notes/Docker - Getting Started.md",
     "notes/intelligent systems cropped.pdf",
-    "notes/inteliigent systems test.md",
-    "To Do/Trackers/Cleaning.md",
-    "To Do/Trackers/Studying.md",
-    "To Do/Trackers/Music Theory.md",
-    "To Do/Projects.canvas",
-    "To Do/Paper Notes - To Do.md",
-    "To Do/Things I am Putting Off Doing.md",
-    "To Do/Things Currently Working On.md",
-    "Daily Notes/2024-06-16.md",
-    "notes/(Computer Science) Frank Luna - Introduction to 3D Game Programming with DirectX 12-Mercury Learning & Information (2016) (1).pdf",
-    "To Do/pdf test.md",
-    "notes/Uni Content/Intelligent Systems/Intelligent Systems.md",
-    "To Do/Trackers/Guitar.md",
-    "To Do/Trackers/Productivity.md",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
-    "To Do/Trackers/Reading.md",
-    "Daily Notes/Daily Notes Template.md",
     "To Do/Trackers.canvas",
-    "To Do/Trackers",
     "To Do/Working On.canvas",
     "To Do/Tracking.canvas",
-    "notes/Medium Articles/Deploy Django AWS Fargate",
-    "notes/Learn Django",
-    "notes/Medium Articles",
-    "notes/Uni Content/Web and Cloud Based Security/Untitled",
     "notes/Untitled.canvas",
     "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
     "notes/Uni Content/Programming 2/Canvases/Iteration and Streaming in Java.canvas",
-    "notes/Uni Content/Programming 2/Canvases/Software Testing and Unit Testing.canvas",
-    "notes/Uni Content/Programming 2/Canvases/Programming Concepts.canvas"
+    "notes/Uni Content/Programming 2/Canvases/Software Testing and Unit Testing.canvas"
   ]
 }

@@ -27,21 +27,13 @@ def extract_tasks_and_durations(json_content):
                 task_durations[task_name] += duration
             else:
                 task_durations[task_name] = duration
-            
-            # Exclude "Games" from productivity calculation
-            if task_name.lower() != 'games':
-                productivity_total += duration
 
-    return task_durations, productivity_total
+    return task_durations
 
-def format_frontmatter(task_durations, productivity_total):
+def format_frontmatter(task_durations):
     frontmatter_lines = ['---']
     for task, duration in task_durations.items():
         frontmatter_lines.append(f'{task}: "{duration}"')
-    if 'Games' not in task_durations:
-        frontmatter_lines.append(f'Games: "0"')
-    if productivity_total != 0:
-        frontmatter_lines.append(f'Productivity: "{productivity_total}"')
     frontmatter_lines.append('---\n')
     return '\n'.join(frontmatter_lines)
 
@@ -64,8 +56,8 @@ def process_markdown_file(file_path):
         raise ValueError("No simple-time-tracker JSON block found in the markdown file.")
     
     json_content = match.group(1)
-    task_durations, productivity_total = extract_tasks_and_durations(json_content)
-    frontmatter = format_frontmatter(task_durations, productivity_total)
+    task_durations = extract_tasks_and_durations(json_content)
+    frontmatter = format_frontmatter(task_durations)
     updated_md_content = insert_frontmatter(md_content, frontmatter)
     
     with open(file_path, 'w') as file:

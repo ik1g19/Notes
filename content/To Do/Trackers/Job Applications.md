@@ -8,7 +8,7 @@ const calendarData = {
     year: 2024,  // (optional) defaults to current year
     entries: [],
     intensityScaleStart: 0,
-    intensityScaleEnd: 120
+    intensityScaleEnd: 180
 }
 
 //DataviewJS loop
