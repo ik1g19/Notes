@@ -28,7 +28,7 @@ enableToc: false
 
 #### [[Distributed Systems and Networks ToC|Distributed Systems and Networks ToC]] 📝 📙
 
-#### [[Intelligent Systems]] 📝
+#### [[Intelligent Systems]] 📝📙
 
 #### [[notes/Uni Content/Programming 3/Programming 3|Programming 3]] 📝
 

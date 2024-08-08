@@ -3,7 +3,7 @@ title: Introduction
 ---
 # Concepts
 
-- [[Feature Extraction]]
+#feature-extraction
 
 ---
 # Applications of Computer Vision

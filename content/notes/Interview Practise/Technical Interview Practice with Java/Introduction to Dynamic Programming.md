@@ -1,6 +1,8 @@
 # Concepts
 
-- [[Java]]
+#java 
+
+---
 
 # Introduction to Dynamic Programming
 

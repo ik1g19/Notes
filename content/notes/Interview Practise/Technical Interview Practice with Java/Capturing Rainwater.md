@@ -1,7 +1,8 @@
 # Concepts
 
-- [[Java]]
+#java
 
+---
 # Capturing Rainwater
 
 Learn a Java implementation of the capturing rainwater interview question.

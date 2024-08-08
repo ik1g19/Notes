@@ -1,17 +1,6 @@
 ---
 title: "Foundations of Comp Sci"
 ---
-
-
-
-<iframe src="https://drive.google.com/file/d/1Li4jiD4QE1MnBID5KSZzVICuES7O0BYQ/preview" width="640" height="780" allow="autoplay"></iframe>
-
-# Concepts
-
-- [[Eigenvector]]
-- [[Eigenvalue]]
-- [[Transforms]]
-
 # Contents
 
 - P1. Sets
@@ -106,3 +95,6 @@ title: "Foundations of Comp Sci"
 			- P144. Poisson
 			- P145. Geometric
 		- P149. Multinomial Expansion
+
+
+<iframe src="https://drive.google.com/file/d/1Li4jiD4QE1MnBID5KSZzVICuES7O0BYQ/preview" width="640" height="780" allow="autoplay"></iframe>

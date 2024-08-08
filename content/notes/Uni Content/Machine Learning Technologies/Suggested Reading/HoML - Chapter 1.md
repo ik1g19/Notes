@@ -1,16 +1,8 @@
 # Concepts
 
-- [[Supervised Learning]]
-- [[Unsupervised Learning]]
-- [[Data Mining]]
-- [[Reinforcement Learning]]
-- [[Linear Regression|Linear Regression]]
-- [[KNN]]
-- [[Logistic Regression]]
-- [[SVM]]
-- [[Random Forests]]
-- [[Principle Component Analysis]]
-- [[Dimensionality Reduction]]
+#supervised-learning  #unsupervised-learning  #data-mining  #reinforcement-learning  
+#linear-regression  #knn  #logistic-regression  #svm  #random-forests  
+#principle-component-analysis  #dimensionality-reduction
 
 
 

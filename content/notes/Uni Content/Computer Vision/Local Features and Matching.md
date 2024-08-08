@@ -3,9 +3,8 @@ title: Local Features and Matching
 ---
 # Concepts
 
-- [[SIFT]]
-- [[Feature Vector]]
-- [[Image Matching]]
+#sift
+#feature-vector
 
 ---
 # Local Features

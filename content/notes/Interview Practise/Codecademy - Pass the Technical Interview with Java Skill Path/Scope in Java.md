@@ -1,8 +1,8 @@
-### Concepts
+# Concepts
 
-- [[Java]]
+#java
 
-
+---
 
 ### Intro to Scope
 

@@ -1,7 +1,3 @@
-# Concepts
-
-- [[Cloud Computing]]
-
 # Cloud Services
 
 ## Security By Design

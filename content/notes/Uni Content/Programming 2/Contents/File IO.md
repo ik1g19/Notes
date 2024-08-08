@@ -1,5 +1,0 @@
-# Concepts
-
-- [[Streams]]
-- [[Serialization]]
-- [[Java]]

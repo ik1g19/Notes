@@ -1,12 +1,6 @@
 ---
 title: Consistent Matching
 ---
-# Concepts
-
-- [[Image Matching]]
-- [[Transforms]]
-
----
 # Constrained Matching
 
 Assume we are given a number of correspondences between the interest points in a pair of images

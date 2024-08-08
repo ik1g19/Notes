@@ -1,15 +1,6 @@
 ---
 title: "Radio Fundamentals"
 ---
-# Concepts
-
-- [Bluetooth](concepts/Bluetooth.md)
-- [WiFi](WiFi.md)
-- [GSM](GSM.md)
-- [Modulation](Modulation.md)
-- [LoRaWAN](LoRaWAN.md)
-
----
 # **Radio Spectrum**
 - Generally used for broadcasting 
 	- Centre frequency determines characteristics of the channel we're creating

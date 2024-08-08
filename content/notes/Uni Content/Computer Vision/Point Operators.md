@@ -1,11 +1,6 @@
 ---
 title: Point Operators
 ---
-# Concepts
-
-- [[Normalization]]
-
----
 # Histogram of an image
 
 ![|400](https://remnote-user-data.s3.amazonaws.com/7nH4rPBAlVRDXasCRZ7E8V-j856Rf8aR1ubAnmlUt3Dx6Mr_7d5D1hiNqwZ19WyFLem-H_kreDbEt8vMvwJnLmfaZlw6TVl1H3dbYcKJ7pOfj5_YsRJqDXFCOO9MbpKa.png)

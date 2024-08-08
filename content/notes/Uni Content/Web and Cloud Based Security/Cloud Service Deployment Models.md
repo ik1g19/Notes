@@ -1,7 +1,3 @@
-# Concepts
-
-- [[Cloud Computing]]
-
 # Cloud Service Deployment Models
 
 - **Public**: Cloud infrastructure is available to the general public, owned by the organization selling cloud services.

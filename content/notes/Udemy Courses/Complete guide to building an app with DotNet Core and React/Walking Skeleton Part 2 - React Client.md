@@ -1,7 +1,8 @@
 # Concepts
 
-- [[React]]
+#react
 
+---
 # Creating the React Project
 
 Rather than using HTML or CSS to build our web pages, we will build them using React components

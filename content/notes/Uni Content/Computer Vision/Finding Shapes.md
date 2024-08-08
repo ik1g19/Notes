@@ -3,7 +3,7 @@
 
 # Concepts
 
-- [[Hough Transform]]
+#hough-transform
 
 ---
 # Grouping points to find shapes

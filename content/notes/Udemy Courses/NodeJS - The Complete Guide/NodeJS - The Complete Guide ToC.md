@@ -1,7 +1,6 @@
 # Concepts
 
-- [[concepts/NodeJS|NodeJS]]
-- [[concepts/JavaScript|JavaScript]]
+#node-js #javascript 
 
 ---
 

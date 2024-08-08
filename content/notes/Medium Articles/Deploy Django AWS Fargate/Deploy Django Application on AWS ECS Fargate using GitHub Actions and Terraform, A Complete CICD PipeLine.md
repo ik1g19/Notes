@@ -1,12 +1,12 @@
 # Concepts
 
-- [[Docker]]
-- [[Django]]
-- [[AWS]]
-- [[Infrastructure as Code - Concept|Infrastructure as Code]]
-- [[CICD]]
-- [[Terraform]]
+#docker
+#django
+#aws
+#infrastructure-as-code
+#cicd 
 
+---
 # Summary
 
 ![](https://www.youtube.com/watch?v=o22qYKDCGbU)

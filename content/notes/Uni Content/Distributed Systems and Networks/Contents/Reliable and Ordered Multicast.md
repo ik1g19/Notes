@@ -1,3 +1,0 @@
-# Concepts
-
-- [[Multicast]]

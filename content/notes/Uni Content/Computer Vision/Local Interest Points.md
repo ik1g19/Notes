@@ -3,8 +3,8 @@ title: Local Interest Points
 ---
 # Concepts
 
-- [[Difference of Gaussian]]
-- [[concepts/Edge Detection|Edge Detection]]
+#difference-of-gaussian
+#edge-detection
 
 ---
 

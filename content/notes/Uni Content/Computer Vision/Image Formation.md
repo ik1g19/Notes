@@ -3,7 +3,7 @@ title: Image Formation
 ---
 # Concepts
 
-- [[Fourier Transform]]
+#fourier-transform
 
 ---
 # Inverse Fourier Transformation

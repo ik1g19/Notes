@@ -1,9 +1,8 @@
 # Concepts
 
-- [[Docker]]
-- [[concepts/NodeJS]]
-- [[Hypervisors]]
+#docker #node-js #hypervisors
 
+---
 # Dockers
 ## Setting up a new Project
 

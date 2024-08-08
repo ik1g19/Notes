@@ -1,13 +1,6 @@
 ---
 title: "IoT OS"
 ---
-# Concepts
-
-- [[Zephyr]]
-- [[Riot-OS]]
-- [[Contiki-NG]]
-
----
 # **Reasons to use an OS**
 - Device independence
 - Services

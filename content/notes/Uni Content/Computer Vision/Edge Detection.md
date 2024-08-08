@@ -3,7 +3,7 @@ title: Edge Detection
 ---
 # Concepts
 
-- [Edge Detection](concepts/Edge%20Detection.md)
+#edge-detection
 
 ---
 # What is an Edge

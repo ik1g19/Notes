@@ -1,7 +1,8 @@
 # Concepts
 
-- [[Hypervisors]]
+#hypervisors
 
+---
 # Virtual Machines
 ## Virtualization Types
 

@@ -4,8 +4,8 @@ title: Large Scale Image Search
 
 # Concepts
 
-- [[Bag of Visual Words]]
-- [[SIFT]]
+#bag-of-visual-words
+#sift
 
 ---
 

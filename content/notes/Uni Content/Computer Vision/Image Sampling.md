@@ -3,8 +3,7 @@ title: Image Sampling
 ---
 # Concepts
 
-- [[Fourier Transform]]
-- [[Aliasing]]
+#fourier-transform
 
 ---
 

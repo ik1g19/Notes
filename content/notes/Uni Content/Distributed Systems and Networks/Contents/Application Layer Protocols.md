@@ -1,4 +1,0 @@
-# Concepts
-
-- [[DHCP]]
-- [[CoAP]]

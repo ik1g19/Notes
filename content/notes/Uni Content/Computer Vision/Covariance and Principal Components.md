@@ -3,12 +3,12 @@ title: Covariance and Prinicpal Components
 ---
 # Concepts
 
-- [[Eigenvector]]
-- [[Eigenvalue]]
-- [[Feature Vector]]
-- [[Principle Component Analysis]]
-- [[Covariance Matrix]]
-- [[Eigenfaces]]
+#eigenvector
+#eigenvalue
+#feature-vector
+#principle-component-analysis
+#covariance-matrix
+#eigenfaces
 
 ---
 # Random Variables and Expected Values

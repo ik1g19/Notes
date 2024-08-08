@@ -1,7 +1,8 @@
 # Concepts
 
-- [[concepts/NodeJS|NodeJS]]
-- [[C Sharp]]
+#node-js #c-sharp 
+
+---
 
 # Pre-requisites
 

@@ -1,11 +1,8 @@
 # Concepts
 
-- [[React]]
-- [[HTML]]
-- [[CSS]]
-- [[concepts/JavaScript]]
+#react #html #css #javascript
 
-
+---
 # Describing the UI
 ## Components
 

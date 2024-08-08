@@ -1,4 +1,0 @@
-# Concepts
-
-- [[RESTful]]
-- [[SOAP]]

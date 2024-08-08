@@ -1,11 +1,6 @@
 # Concepts
 
-- [[C Sharp]]
-- [[MVC]]
-- [[HTTP]]
-- [[Dotnet]]
-- [[Databases]]
-- [[ORM]]
+#c-sharp #dotnet #databases
 
 # Introduction
 

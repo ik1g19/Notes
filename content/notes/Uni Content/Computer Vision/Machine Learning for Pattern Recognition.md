@@ -3,10 +3,10 @@ title: Machine Learning for Pattern Recognition
 ---
 # Concepts
 
-- [[Machine Learning]]
-- [[Feature Vector]]
-- [[KNN]]
-- [[K Means]]
+#machine-learning
+#feature-vector
+#knn
+#k-means
 
 ---
 # Feature Spaces

@@ -1,6 +1,8 @@
-## Concepts
+# Concepts
 
-- [[Java]]
+#java 
+
+---
 
 The sieve provides a set of steps for finding all prime numbers up to a given limit. In this article, we’ll cover implementing the Sieve of Eratosthenes in Java. As a reminder, a prime number is a positive number with no divisors but `1` and itself. `2`, `3`, `11`, and `443` are all prime numbers.
 

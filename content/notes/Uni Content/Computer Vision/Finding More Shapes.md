@@ -3,7 +3,7 @@ title: Finding More Shapes
 ---
 # Concepts
 
-- [[Hough Transform]]
+#hough-transform
 
 ---
 # Hough Transform for Circles

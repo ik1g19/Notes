@@ -1,4 +1,0 @@
-# Concepts
-
-- [[MQTT]]
-- [[CoAP]]

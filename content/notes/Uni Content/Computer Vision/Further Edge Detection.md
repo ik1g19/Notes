@@ -3,8 +3,7 @@ title: Further Edge Detection
 ---
 # Concepts
 
-- [Edge Detection](concepts/Edge%20Detection.md)
-- [[Canny]]
+#edge-detection
 
 ---
 
