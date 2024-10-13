@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "First level folder bg (Title only)",
+    "timeline",
+    "main.min",
+    "heatmaps",
+    "Block_reference_embed",
+    "S - Embed Adjustments",
+    "obsidian.live-preview.css.block-ref-inline"
+  ]
+}

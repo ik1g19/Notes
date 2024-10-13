@@ -1,0 +1,15 @@
+- [ ] Design Patterns
+	- [ ] Structural Patterns
+	- [ ] Behavioural Patterns
+	- [ ] Creational Patterns
+- [ ] Static vs Dynamic Typing
+- [ ] Data Structures
+	- [ ] Trees
+		- [ ] Binary Search Trees
+		- [ ] AVL Trees
+		- [ ] Red-Black Trees
+		- [ ] TreeSet
+		- [ ] B-Trees
+	- [ ] Heaps
+- [ ] Coupling
+- [ ] Unit Testing
