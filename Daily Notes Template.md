@@ -1,3 +1,9 @@
+---
+focus_time: 0
+game_time: 0
+---
+
+
 # <mark style="background: #ABF7F7A6;">Focus</mark> => <mark style="background: #BBFABBA6;">Here</mark> 
 
 # <mark style="background: #ABF7F7A6;">Notes</mark>
@@ -6,7 +12,7 @@
 
 # <mark style="background: #ABF7F7A6;">To Do</mark>
 
-![[!/To Do|To Do]]
+![[!/To Do 2|To Do]]
 # <mark style="background: #ABF7F7A6;">Job Applications</mark>
 
 - [ ] 1/5 Jobs
@@ -16,11 +22,8 @@
 	- [ ] 5/5 Jobs
 # <mark style="background: #ABF7F7A6;">Habits</mark>
 
-- [ ] `$= dv.page("Habits").habit_music_theory`
 - [ ] `$= dv.page("Habits").habit_leetcode`
-- [ ] `$= dv.page("Habits").habit_dev_django`
-- [ ] `$= dv.page("Habits").habit_dev_spring` 
-- [ ] `$= dv.page("Habits").habit_study_plan` 
+- [ ] `$= dv.page("Habits").habit_study_plan`
 
 #daily-note
 

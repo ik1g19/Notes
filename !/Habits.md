@@ -13,8 +13,8 @@ habit_dev_spring: Learning Spring with Spring Boot - One Section
 habit_tldr: Read TLDR Article
 habit_medium: Read Medium Article
 habit_study_plan: Tick off Study Plan Item
+habit_games: Less than 1hr Games
 ---
-
 
 ## <mark style="background: #ABF7F7A6;">Leetcode</mark>
 
@@ -147,3 +147,7 @@ for(let page of dv.pages('"Daily Notes"').file.tasks.where(p=>p.checked).where(p
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+
+
+
+

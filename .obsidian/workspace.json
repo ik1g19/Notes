@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "!/Articles and Projects.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Articles and Projects"
             }
           }
         ]
@@ -42,7 +44,9 @@
                 "file": "!/Emojis.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Emojis"
             }
           }
         ]
@@ -58,13 +62,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#eigenvector",
+                "query": "list-function-based-view",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -72,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -82,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -99,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "!/Articles and Projects.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -130,10 +140,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792646,
+                  "scale": 0.362887369301216,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Articles and Projects"
             }
           }
         ]
@@ -158,7 +170,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "Daily Notes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Daily Notes Template"
             }
           },
           {
@@ -184,10 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-10-13.md",
+                "file": "Daily Notes Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily Notes Template"
             }
           },
           {
@@ -195,7 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -203,38 +223,62 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "31aeb5ac33f5f352",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1d4b292b3b9eb6a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-10-13.md"
-              }
+                "file": "!/Articles and Projects.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Articles and Projects"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b14e1495e7250b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f6322d636f4c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!/Game Time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Time"
             }
           }
         ]
       },
       {
-        "id": "372c6d9b1b550520",
+        "id": "82840c96e41a16f0",
         "type": "tabs",
         "children": [
           {
-            "id": "4377c73b911eec6b",
+            "id": "e7fb8436b31b8186",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "!/Focus Time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Focus Time"
             }
           }
         ]
@@ -245,7 +289,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -259,57 +302,58 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9b5ae4d397f7a20",
+  "active": "231bbb5ac726f23d",
   "lastOpenFiles": [
-    "notes/Leetcode Exercises/First Missing Positive.md",
-    "notes/Leetcode Exercises/House Robber.md",
-    "notes/Leetcode Exercises/Maximum Average Subarray I.md",
-    "notes/Leetcode Exercises/Maximum Sum Subarray.md",
-    "notes/Leetcode Exercises/Min Cost Climbing Stairs.md",
-    "Daily Notes/2024-10-13.md",
-    "Daily Notes/2024-10-12.md",
-    "Daily Notes/2024-10-11.md",
-    "!/To Do.md",
-    "!/Emojis.md",
+    "!/Game Time.md",
+    "Daily Notes/2024-10-23.md",
+    "!/Focus Time.md",
     "Daily Notes Template.md",
-    "Daily Notes/2024-10-09.md",
+    "!/On Going Job Applications.md",
+    "!/To Do 2.md",
+    "Daily Notes/2024-10-22.md",
+    "!/Articles and Projects.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/Basic Movement and Collision.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/Part 2 Branching Dialog.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make a Menu System (with Submenus).md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/Room Transitions.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/Depth and Decor.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+    "notes/Courses/GameMaker Studio/How to Make an RPG in GameMaker Studio/Branching Dialog System with Effects Setup and Typing Effect.md",
     "!/To Learn.md",
-    "!/Study Plan.md",
-    "!/Habits.md",
-    "Daily Notes/2024-10-07.md",
-    "notes/Misc/VSCode Shortcuts.md",
-    "notes/Courses/Django Training/Django Forms.md",
-    "notes/Courses/Django Training/Django Training ToC.md",
-    "Drive Sync/Matthew Barnes Notes/Software Modelling and Design Notes.pdf",
-    "Drive Sync/Matthew Barnes Notes/Algorithmics Notes.pdf",
-    "Daily Notes/2024-10-06.md",
-    "notes/Programming Paradigms",
-    "notes/Misc/Bootstrap.md",
-    "notes/Misc/Autoplay all a Youtube Channels Videos.md",
-    "Home.md",
-    "!",
-    "notes/C++/Pointers.md",
-    "notes/C++/Memory Address.md",
-    "notes/C++/References.md",
-    "notes/C++/Untitled",
-    "notes/C++",
+    "Daily Notes/2024-09-23.md",
+    "Daily Notes/2024-09-24.md",
+    "Daily Notes/2024-09-25.md",
+    "Daily Notes/2024-09-26.md",
+    "Daily Notes/2024-09-27.md",
+    "Daily Notes/2024-09-28.md",
+    "Daily Notes/2024-09-29.md",
+    "Daily Notes/2024-10-02.md",
+    "Daily Notes/2024-10-03.md",
+    "Images/Pasted image 20241015225901.png",
+    "Images/Pasted image 20241015225802.png",
+    "Images/Pasted image 20241015225658.png",
+    "Images/Pasted image 20241015224840.png",
+    "Images/Pasted image 20241015224616.png",
+    "Images/Pasted image 20241015223930.png",
     "Drive Sync/Uni PDFs/Theory of Computing.pdf",
-    "Drive Sync/Uni PDFs/Theory of Computing-1.pdf",
+    "Drive Sync/Uni PDFs/programming 1 cropped.pdf",
     "Drive Sync/Uni PDFs/programming language concepts rotated cropped.pdf",
+    "Drive Sync/Uni PDFs/Programming 3.pdf",
+    "Drive Sync/Uni PDFs/Programming 2.pdf",
+    "Drive Sync/Uni PDFs/algorithmics rotated cropped.pdf",
+    "Drive Sync/Uni PDFs/Distributed Systems and Networks.pdf",
+    "Drive Sync/Uni PDFs/intelligent systems cropped.pdf",
+    "Drive Sync/Uni PDFs",
+    "Drive Sync/Matthew Barnes Notes/Theory of Computing Notes.pdf",
     "Images/20240820_154459(1).png",
     "Images/20240820_154459 3 1.png",
     "Images/20240820_154459 2 1.png",
     "Images/20240820_154459 1 1.png",
-    "Images/20240820_154459 4.png",
-    "Drive Sync/Uni PDFs/PLC-Connected.pdf",
-    "Images/Pasted image 20240928202236.png",
-    "Images/Pasted image 20240928202155.png",
-    "Images/Super 20and 20sub-classes 1.png",
-    "Images/Super 20and 20sub-classes.png",
-    "Images/Programming III Notes.png",
     "File IO.canvas",
     "To Do/Projects.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
