@@ -1,0 +1,430 @@
+{
+  "main": {
+    "id": "1e81bdb615558665",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ba92d73603fc62",
+        "type": "tabs",
+        "dimension": 60.89430894308943,
+        "children": [
+          {
+            "id": "29c368803dcf83ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-11-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-05"
+            }
+          },
+          {
+            "id": "4aaffd1b98c51f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Habits"
+            }
+          },
+          {
+            "id": "7f3995a169eb2d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "On Going Job Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On Going Job Applications"
+            }
+          },
+          {
+            "id": "c8d46f093b41912e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study Plan"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a070337ca7440099",
+        "type": "split",
+        "dimension": 39.105691056910565,
+        "children": [
+          {
+            "id": "6ec27b4dfa5ce6f4",
+            "type": "tabs",
+            "dimension": 34.49612403100775,
+            "children": [
+              {
+                "id": "f1f6322d636f4c49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Time.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Time"
+                }
+              },
+              {
+                "id": "7b9cdb567149a975",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "d9b5ae4d397f7a20",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f0f57b66786b1b56",
+            "type": "tabs",
+            "dimension": 65.50387596899225,
+            "children": [
+              {
+                "id": "35d44ff026cf6573",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Walking Skeleton Part 2 - Client"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73acaa77aee361a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a641f4a8c5c82e26",
+        "type": "tabs",
+        "dimension": 20.242914979757085,
+        "children": [
+          {
+            "id": "1a86e52952410c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emojis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emojis"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f3daab51bd93ba7",
+        "type": "tabs",
+        "dimension": 48.27935222672065,
+        "children": [
+          {
+            "id": "4e9c10e8f4b42768",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#typing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6969e4c1a676fe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5ea63f941bfa95cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cb0132838d04e325",
+        "type": "tabs",
+        "dimension": 31.477732793522268,
+        "children": [
+          {
+            "id": "6456cff3682d6554",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Study Plan.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "ToC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14729554
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.362887369301216,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Study Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "right": {
+    "id": "f4b7d22dc5da4834",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57430881c33913d",
+        "type": "tabs",
+        "dimension": 45.48148148148148,
+        "children": [
+          {
+            "id": "3122ff376677c2ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4159f5c32186b40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Study Plan"
+            }
+          },
+          {
+            "id": "3652e473079e066c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2024-11-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-03"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bf6a0ae8acdbe304",
+        "type": "tabs",
+        "dimension": 54.518518518518526,
+        "children": [
+          {
+            "id": "1d4b292b3b9eb6a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study Plan.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Study Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "5ea63f941bfa95cf",
+  "lastOpenFiles": [
+    "Git Ignore/Heavy Stuff",
+    "Git Ignore/Untitled.md",
+    "Study Plan.md",
+    "Job Application Common Questions.md",
+    "On Going Job Applications.md",
+    "Time.md",
+    "Habits.md",
+    "Daily Notes/2024-11-05.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
+    "Daily Notes Template.md",
+    "!/To Learn.md",
+    "!/Recipes.md",
+    "To Dos/To Do 2.md",
+    "Daily Notes/2024-11-04.md",
+    "Emojis.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 3/Gradual Typing.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 1/Linear Typing.md",
+    "Images/camera_capture.jpg",
+    "Images/20241104_220006.jpg",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
+    "Daily Notes/2024-11-03.md",
+    "Daily Notes/2024-11-01.md",
+    "Images/Pasted image 20241103200114.png",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 1 - Dotnet.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Seed Data.md",
+    "notes/Courses/Django Training/Django Built in User Management.md",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Programming III Notes.pdf",
+    "Daily Notes/2024-11-02.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Introduction.md",
+    "notes/Courses/Django Training/Django Training ToC.md",
+    "To Dos",
+    "Images/Pasted image 20241015225901.png",
+    "Images/Pasted image 20241015225802.png",
+    "Images/Pasted image 20241015225658.png",
+    "Images/Pasted image 20241015224840.png",
+    "Images/Pasted image 20241015224616.png",
+    "Images/Pasted image 20241015223930.png",
+    "Git Ignore/Heavy Stuff/Uni PDFs/Theory of Computing.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/programming 1 cropped.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/programming language concepts rotated cropped.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/Programming 3.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/Programming 2.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/algorithmics rotated cropped.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/Distributed Systems and Networks.pdf",
+    "Git Ignore/Heavy Stuff/Uni PDFs/intelligent systems cropped.pdf",
+    "Images/20240820_154459(1).png",
+    "File IO.canvas",
+    "To Do/Projects.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
+    "To Do/Trackers.canvas",
+    "To Do/Working On.canvas",
+    "To Do/Tracking.canvas",
+    "notes/Untitled.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Iteration and Streaming in Java.canvas",
+    "notes/Uni Content/Programming 2/Canvases/Software Testing and Unit Testing.canvas"
+  ]
+}

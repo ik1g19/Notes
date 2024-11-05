@@ -1,0 +1,13 @@
+{
+  "pythonPath": "",
+  "pythonExe": "",
+  "pythonIndividualExes": {},
+  "passVaultPath": {
+    "calc_time.py": true
+  },
+  "passCurrentFile": {
+    "calc_time.py": true
+  },
+  "additionalArgs": {},
+  "dotFiles": {}
+}

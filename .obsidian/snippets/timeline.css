@@ -1,0 +1,17 @@
+.absolute-stretch-x {
+  margin-left: 0px!important;
+  margin-right: 0px!important;
+}
+
+.content {
+  border-radius: 0px!important;
+  border: 0px!important;
+}
+
+.day-planner-task-decoration {
+  color: black!important;
+}
+
+.rendered-markdown > .contains-task-list > .task-list-item {
+  color: black!important;
+}
