@@ -64,8 +64,7 @@
               "title": "Study Plan"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "a070337ca7440099",
@@ -111,7 +110,8 @@
                   "title": "Source Control"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "f0f57b66786b1b56",
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study Plan.md",
+                "file": "Daily Notes/2024-11-05.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Study Plan"
+              "title": "Graph of 2024-11-05"
             }
           }
         ]
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Plan.md",
+                "file": "Daily Notes/2024-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +306,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Study Plan"
+              "title": "Backlinks for 2024-11-05"
             }
           },
           {
@@ -329,7 +329,7 @@
       {
         "id": "bf6a0ae8acdbe304",
         "type": "tabs",
-        "dimension": 54.518518518518526,
+        "dimension": 54.51851851851852,
         "children": [
           {
             "id": "1d4b292b3b9eb6a2",
@@ -337,10 +337,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Plan.md"
+                "file": "Daily Notes/2024-11-05.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Study Plan"
+              "title": "Outline of 2024-11-05"
             }
           }
         ]
@@ -368,15 +368,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5ea63f941bfa95cf",
+  "active": "d9b5ae4d397f7a20",
   "lastOpenFiles": [
+    "Habits.md",
+    "Time.md",
+    "Study Plan.md",
     "Git Ignore/Heavy Stuff",
     "Git Ignore/Untitled.md",
-    "Study Plan.md",
     "Job Application Common Questions.md",
     "On Going Job Applications.md",
-    "Time.md",
-    "Habits.md",
     "Daily Notes/2024-11-05.md",
     "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
     "Daily Notes Template.md",
@@ -414,7 +414,6 @@
     "Git Ignore/Heavy Stuff/Uni PDFs/Programming 2.pdf",
     "Git Ignore/Heavy Stuff/Uni PDFs/algorithmics rotated cropped.pdf",
     "Git Ignore/Heavy Stuff/Uni PDFs/Distributed Systems and Networks.pdf",
-    "Git Ignore/Heavy Stuff/Uni PDFs/intelligent systems cropped.pdf",
     "Images/20240820_154459(1).png",
     "File IO.canvas",
     "To Do/Projects.canvas",
