@@ -48,7 +48,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 
 
-## <mark style="background: #ABF7F7A6;">Focus</mark>
+## <mark style="background: #ABF7F7A6;">Main Focus</mark>
 
 | <div style="height: 20px; width: 20px; background-color: #a9415e; border-radius: 5px; "></div> | `$= dv.page("Habits").habit_dotnet_guide`    |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------- |

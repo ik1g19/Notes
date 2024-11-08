@@ -6,7 +6,7 @@
       {
         "id": "51ba92d73603fc62",
         "type": "tabs",
-        "dimension": 60.89430894308943,
+        "dimension": 55.44715447154472,
         "children": [
           {
             "id": "29c368803dcf83ce",
@@ -14,54 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-11-05.md",
+                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05"
+              "title": "Creating a CRUD Application using the CQRS and Mediator Pattern"
             }
           },
           {
-            "id": "4aaffd1b98c51f39",
+            "id": "48de2116172bd10b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habits.md",
+                "file": "notes/Uni Content/Advanced Programming Language Concepts/Week 9/Aspect Oriented Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Habits"
-            }
-          },
-          {
-            "id": "7f3995a169eb2d5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "On Going Job Applications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "On Going Job Applications"
-            }
-          },
-          {
-            "id": "c8d46f093b41912e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Study Plan"
+              "title": "Aspect Oriented Programming"
             }
           }
         ]
@@ -69,12 +41,12 @@
       {
         "id": "a070337ca7440099",
         "type": "split",
-        "dimension": 39.105691056910565,
+        "dimension": 44.55284552845528,
         "children": [
           {
             "id": "6ec27b4dfa5ce6f4",
             "type": "tabs",
-            "dimension": 34.49612403100775,
+            "dimension": 41.08527131782946,
             "children": [
               {
                 "id": "f1f6322d636f4c49",
@@ -88,6 +60,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Time"
+                }
+              },
+              {
+                "id": "870e1b4943f2096d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Habits.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Habits"
                 }
               },
               {
@@ -116,7 +102,7 @@
           {
             "id": "f0f57b66786b1b56",
             "type": "tabs",
-            "dimension": 65.50387596899225,
+            "dimension": 58.91472868217054,
             "children": [
               {
                 "id": "35d44ff026cf6573",
@@ -124,15 +110,44 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
+                    "file": "Daily Notes/2024-11-08.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Walking Skeleton Part 2 - Client"
+                  "title": "2024-11-08"
+                }
+              },
+              {
+                "id": "df77a4c5a00a28d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Complete guide to building an app with Net Core and React ToC"
+                }
+              },
+              {
+                "id": "fb14688ed0bb1143",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "On Going Job Applications.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "On Going Job Applications"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -223,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2024-11-05.md",
+                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-11-05"
+              "title": "Graph of Creating a CRUD Application using the CQRS and Mediator Pattern"
             }
           }
         ]
@@ -296,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-11-05.md",
+                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +321,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-05"
+              "title": "Backlinks for Creating a CRUD Application using the CQRS and Mediator Pattern"
             }
           },
           {
@@ -337,10 +352,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-11-05.md"
+                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-05"
+              "title": "Outline of Creating a CRUD Application using the CQRS and Mediator Pattern"
             }
           }
         ]
@@ -368,45 +383,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9b5ae4d397f7a20",
+  "active": "5ea63f941bfa95cf",
   "lastOpenFiles": [
-    "Habits.md",
-    "Time.md",
-    "Study Plan.md",
-    "Git Ignore/Heavy Stuff",
-    "Git Ignore/Untitled.md",
-    "Job Application Common Questions.md",
-    "On Going Job Applications.md",
-    "Daily Notes/2024-11-05.md",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
-    "Daily Notes Template.md",
-    "!/To Learn.md",
-    "!/Recipes.md",
-    "To Dos/To Do 2.md",
-    "Daily Notes/2024-11-04.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 1 - Dotnet.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
     "Emojis.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 3/Gradual Typing.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 1/Linear Typing.md",
+    "notes/Misc/VSCode Shortcuts.md",
+    "Daily Notes/2024-11-08.md",
+    "Daily Notes/2024-11-07.md",
+    "On Going Job Applications.md",
+    "To Dos/To Do 2.md",
+    "Time.md",
+    "Habits.md",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Introduction.md",
+    "Images/camera_capture 5.jpg",
+    "Images/camera_capture 4.jpg",
+    "Images/camera_capture 3.jpg",
+    "Images/camera_capture 2.jpg",
+    "Images/unnamed.jpg",
+    "Images/camera_capture 1.jpg",
+    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
+    "Daily Notes/2024-11-01.md",
+    "Daily Notes/2024-11-04.md",
+    "Daily Notes/2024-11-03.md",
+    "Daily Notes/2024-11-02.md",
+    "Daily Notes/2024-10-31.md",
+    "Daily Notes/2024-10-28.md",
+    "Daily Notes/2024-10-29.md",
+    "Daily Notes/2024-10-30.md",
+    "Daily Notes/2024-11-06.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 9/Aspect Oriented Programming.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Advanced Programming Language Concepts ToC.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 8/Traits in Rust.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 4/Dependent Types.md",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Programming III Notes.pdf",
+    "Git Ignore/Heavy Stuff",
     "Images/camera_capture.jpg",
     "Images/20241104_220006.jpg",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
-    "Daily Notes/2024-11-03.md",
-    "Daily Notes/2024-11-01.md",
     "Images/Pasted image 20241103200114.png",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 1 - Dotnet.md",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Seed Data.md",
-    "notes/Courses/Django Training/Django Built in User Management.md",
-    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Programming III Notes.pdf",
-    "Daily Notes/2024-11-02.md",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Introduction.md",
-    "notes/Courses/Django Training/Django Training ToC.md",
     "To Dos",
     "Images/Pasted image 20241015225901.png",
-    "Images/Pasted image 20241015225802.png",
-    "Images/Pasted image 20241015225658.png",
-    "Images/Pasted image 20241015224840.png",
-    "Images/Pasted image 20241015224616.png",
-    "Images/Pasted image 20241015223930.png",
     "Git Ignore/Heavy Stuff/Uni PDFs/Theory of Computing.pdf",
     "Git Ignore/Heavy Stuff/Uni PDFs/programming 1 cropped.pdf",
     "Git Ignore/Heavy Stuff/Uni PDFs/programming language concepts rotated cropped.pdf",
@@ -414,7 +431,6 @@
     "Git Ignore/Heavy Stuff/Uni PDFs/Programming 2.pdf",
     "Git Ignore/Heavy Stuff/Uni PDFs/algorithmics rotated cropped.pdf",
     "Git Ignore/Heavy Stuff/Uni PDFs/Distributed Systems and Networks.pdf",
-    "Images/20240820_154459(1).png",
     "File IO.canvas",
     "To Do/Projects.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",

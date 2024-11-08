@@ -49,6 +49,7 @@ It will start on localhost:5173 by default
 
 You can add a script to `client-app\package.json` and then trigger it with `npm [name]`
 
+📁`client-app\package.json`
 ```json
 "scripts": {
     "start": "vite",
@@ -266,3 +267,167 @@ We will use Axios
 >[!INFO]
 >Axios is a _[promise-based](https://javascript.info/promise-basics)_ HTTP Client for `node.js` and the browser
 
+To install run, and make sure to cd into the client app first
+
+```
+cd client-app
+npm install axios
+```
+
+When the App component is rendered, we want the request to go to the API and fetch the data, and also for the component to store the data inside its own state
+
+We will use the `useState` React hook to hold this information
+- `const [activities, setActivities] = useState([]);`
+- We provide a state that is going to be the value, `activities`, and a function to change the state `setActivities`
+- The initial state is an empty array
+
+When the component loads we want there to be a side effect, which is the request goes to the API to get the data to be stored in the state
+
+We use `useEffect` to create a side effect (See )
+- We provide it a callback function, which is the side effect code
+
+We then loop over the retrieved activities
+
+📁`client-app\src\App.tsx`
+```tsx
+import { useEffect, useState } from 'react'
+import './App.css'
+import axios from 'axios';
+
+function App() {
+  const [activities, setActivities] = useState([]);
+
+  useEffect(() => {
+    axios.get('http://localhost:5000/api/activities')
+      .then(response => {
+        setActivities(response.data)
+      })
+  }, [])
+
+  return (
+    <div>
+      <h1>Reactivies</h1>
+      <ul>
+        {activities.map((activity: any) => (
+          <li key={activity.id}>
+            {activity.title}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
+
+export default App
+```
+
+Currently this will not work as it needs a CORS header
+
+# CORS Policy
+
+We go to our API and add a CORS policy
+
+First we add the service
+
+📁`API\Program.cs`
+```cs
+...
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<DataContext>(opt => {
+    opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+//CORS Policy
+builder.Services.AddCors(opt => {
+    opt.AddPolicy("CorsPolicy", policy => {
+        policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
+    });
+});
+
+var app = builder.Build();
+...
+```
+
+Then we add the middleware
+- The name has to match the service
+
+📁`API\Program.cs`
+```cs
+...
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseCors("CorsPolicy");
+
+app.UseAuthorization();
+...
+```
+
+# Semantic UI React
+
+[Semantic UI](https://semantic-ui.com/) is a styling framework
+
+Install and import
+
+```
+npm install semantic-ui-react semantic-ui-css
+```
+
+📁`client-app\src\main.tsx`
+```tsx
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.tsx'
+import 'semantic-ui-css/semantic.min.css'
+import './index.css'
+
+ReactDOM.createRoot(document.getElementById('root')!).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+)
+```
+
+We can then use Semantic components in our app
+
+📁`client-app\src\App.tsx`
+```tsx
+import { useEffect, useState } from 'react'
+import './App.css'
+import axios from 'axios';
+import { Header, List } from 'semantic-ui-react';
+
+function App() {
+  const [activities, setActivities] = useState([]);
+
+  useEffect(() => {
+    axios.get('http://localhost:5000/api/activities')
+      .then(response => {
+        setActivities(response.data)
+      })
+  }, [])
+
+  return (
+    <div>
+      <Header as='h2' icon='users' content='Reactivities'/>
+      <List>
+        {activities.map((activity: any) => (
+          <List.Item key={activity.id}>
+            {activity.title}
+          </List.Item>
+        ))}
+      </List>
+    </div>
+  )
+}
+
+export default App
+```

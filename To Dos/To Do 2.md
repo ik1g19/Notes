@@ -1,10 +1,12 @@
 
 | Task                                                             | Completed |
 | ---------------------------------------------------------------- | --------- |
-| Accept UC Commitments                                            |           |
-| Do Accenture Assessment                                          | ✅         |
+| Book new Blood Test                                              | ✅         |
+| Get some Part Time Applications done for UC Log                  |           |
 | Add images to website of programs I have previously worked on    |           |
 | Give SLC Employment Information                                  |           |
+| Accept UC Commitments                                            | ✅         |
+| Do Accenture Assessment                                          | ✅         |
 | Collect Prescription                                             | ✅         |
 | Get Flu Vaccination and Blood Test                               | ✅         |
 | Check SD Card Contents and Create Ebay Listing for Modded Switch | ✅         |

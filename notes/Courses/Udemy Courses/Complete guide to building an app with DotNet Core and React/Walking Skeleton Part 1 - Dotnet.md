@@ -389,8 +389,9 @@ We can then use the quick fix suggestion on the `DataContext` class to generate 
 
 ![[notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Images/Pasted image 20240420205141.png]]
 
-`DbSet`s represent the tables that we are going to create
+`DbSet`'s represent the tables that we are going to create
 
+📁`Persistence\DataContext.cs`
 ```cs
 using Domain;
 using Microsoft.EntityFrameworkCore;
@@ -414,7 +415,7 @@ We specify in `Program.cs` that we want to add this as a service
 >[!info]
 >If vscode can't find `DbContext` then run `dotnet restore` in the terminal to make the package visible
 
-
+📁`API\Program.cs`
 ```cs
 // Add services to the container.
 
@@ -431,6 +432,7 @@ We pass the options as a lambda expression, which contains the databases connect
 
 We then need to add the connection string to `appsettings.Development.json`
 
+📁`API\appsettings.Development.json`
 ```json
 {
   "Logging": {
@@ -537,6 +539,7 @@ We need to create a scope so that we have access to one of the services within t
 
 We use `using` since we want to control the lifetime of this variable, it would be garbage collected anyway but since we know we only want to use the variable temporarily we will use `using` so that the memory is freed after
 
+📁`API\Program.cs`
 ```cs
 using var scope = app.Services.CreateScope();
 var services = scope.ServiceProvider;
@@ -544,6 +547,7 @@ var services = scope.ServiceProvider;
 
 We will now create the database using the initial migration in a try-catch block
 
+📁`API\Program.cs`
 ```cs
 try {
 	var context = services.GetRequiredService<DataContext>();
@@ -586,6 +590,7 @@ We then seed the data in `Program.cs`
 - We will receive a notification from a delegate once it has updated the database
 - We will use the asynchronous version of Migrate as well
 
+📁`API\Program.cs`
 ```cs
 try {
     var context = services.GetRequiredService<DataContext>();
@@ -599,7 +604,7 @@ catch (Exception ex) {
 }
 ```
 
-The activities will now be visible in the activities db when the app is started
+The activities will now be visible in the activities `db` when the app is started
 
 # Adding an API Controller
 
@@ -663,6 +668,7 @@ namespace API.Controllers
     }
 }
 ```
+^create-act-controller
 
 The controller has two endpoints
 
