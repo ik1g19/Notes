@@ -27,7 +27,7 @@
   "copyCommands": [
     {
       "name": "Quote",
-      "template": "> ({{linkWithDisplay}})\n> {{selection}}\n"
+      "template": "{{selection}}\n%%{{linkWithDisplay}}%%\n"
     },
     {
       "name": "Link",

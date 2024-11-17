@@ -39,6 +39,7 @@ dv.el("b", result)
 - [ ] `$= dv.page("Habits").habit_moisturize`
 - [ ] `$= dv.page("Habits").habit_song_writing`
 - [ ] `$= dv.page("Habits").habit_game_dev`
+- [ ] `$= dv.page("Habits").habit_song_analysis`
 
 #daily-note
 

@@ -1,0 +1,4 @@
+div[aria-label="Time" i] {
+    /* these settings apply to every filename that beings with "%A" */
+    background-color: rgb(102, 41, 53) !important;
+}

@@ -1,10 +1,18 @@
 
 | Task                                                             | Completed |
 | ---------------------------------------------------------------- | --------- |
+| Add Gatwick Interview Answers to Common Job Questions            | ✅         |
+| Email Southampton Hospital Test Results                          |           |
+| Do first Song Analysis & Make Space on Website for it            |           |
+| Make Bed                                                         | ✅         |
+| Put Away Clothes                                                 | ✅         |
+| Cut Toenails                                                     | ✅         |
+| Reinshaw GRB Online Assessment                                   | ✅         |
+| Hoover Room                                                      | ✅         |
+| London Gatwick Online Assessment                                 | ✅         |
+| Give SLC Employment Information                                  | ✅         |
+| Add Week's Job Applications to UC Log                            | ✅         |
 | Book new Blood Test                                              | ✅         |
-| Get some Part Time Applications done for UC Log                  |           |
-| Add images to website of programs I have previously worked on    |           |
-| Give SLC Employment Information                                  |           |
 | Accept UC Commitments                                            | ✅         |
 | Do Accenture Assessment                                          | ✅         |
 | Collect Prescription                                             | ✅         |

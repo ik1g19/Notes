@@ -6,151 +6,94 @@
       {
         "id": "51ba92d73603fc62",
         "type": "tabs",
-        "dimension": 55.44715447154472,
         "children": [
           {
-            "id": "29c368803dcf83ce",
+            "id": "35d44ff026cf6573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
+                "file": "Interview Practise/Job Application Common Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating a CRUD Application using the CQRS and Mediator Pattern"
+              "title": "Job Application Common Questions"
             }
           },
           {
-            "id": "48de2116172bd10b",
+            "id": "9de0a94f6abab1a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Uni Content/Advanced Programming Language Concepts/Week 9/Aspect Oriented Programming.md",
+                "file": "Organisation/Articles and Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aspect Oriented Programming"
+              "title": "Articles and Projects"
             }
-          }
-        ]
-      },
-      {
-        "id": "a070337ca7440099",
-        "type": "split",
-        "dimension": 44.55284552845528,
-        "children": [
-          {
-            "id": "6ec27b4dfa5ce6f4",
-            "type": "tabs",
-            "dimension": 41.08527131782946,
-            "children": [
-              {
-                "id": "f1f6322d636f4c49",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Time.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Time"
-                }
-              },
-              {
-                "id": "870e1b4943f2096d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Habits.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Habits"
-                }
-              },
-              {
-                "id": "7b9cdb567149a975",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Calendar"
-                }
-              },
-              {
-                "id": "d9b5ae4d397f7a20",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              }
-            ],
-            "currentTab": 2
           },
           {
-            "id": "f0f57b66786b1b56",
-            "type": "tabs",
-            "dimension": 58.91472868217054,
-            "children": [
-              {
-                "id": "35d44ff026cf6573",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily Notes/2024-11-08.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2024-11-08"
-                }
+            "id": "5041f70fe22495c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Uni Content/Software Modelling and Design/Software Modelling and Design.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "df77a4c5a00a28d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Complete guide to building an app with Net Core and React ToC"
-                }
+              "icon": "lucide-file",
+              "title": "Software Modelling and Design"
+            }
+          },
+          {
+            "id": "fb14688ed0bb1143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-11-16.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "fb14688ed0bb1143",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "On Going Job Applications.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "On Going Job Applications"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "2024-11-16"
+            }
+          },
+          {
+            "id": "5189ab4978d60ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation/On Going Job Applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On Going Job Applications"
+            }
+          },
+          {
+            "id": "b637f08bc71993d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation/Time.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 5,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -162,7 +105,7 @@
       {
         "id": "a641f4a8c5c82e26",
         "type": "tabs",
-        "dimension": 20.242914979757085,
+        "dimension": 28.109201213346815,
         "children": [
           {
             "id": "1a86e52952410c3c",
@@ -170,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emojis.md",
+                "file": "Organisation/Emojis.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,7 +126,7 @@
       {
         "id": "0f3daab51bd93ba7",
         "type": "tabs",
-        "dimension": 48.27935222672065,
+        "dimension": 42.871587462082914,
         "children": [
           {
             "id": "4e9c10e8f4b42768",
@@ -191,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#typing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,14 +166,24 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "cf2b059634f1771c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "cb0132838d04e325",
         "type": "tabs",
-        "dimension": 31.477732793522268,
+        "dimension": 29.01921132457027,
         "children": [
           {
             "id": "6456cff3682d6554",
@@ -238,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
+                "file": "Organisation/Time.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,14 +227,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Creating a CRUD Application using the CQRS and Mediator Pattern"
+              "title": "Graph of Time"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "right": {
     "id": "f4b7d22dc5da4834",
@@ -311,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
+                "file": "Organisation/Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +275,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creating a CRUD Application using the CQRS and Mediator Pattern"
+              "title": "Backlinks for Time"
             }
           },
           {
@@ -352,17 +306,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md"
+                "file": "Organisation/Time.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a CRUD Application using the CQRS and Mediator Pattern"
+              "title": "Outline of Time"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,54 +337,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5ea63f941bfa95cf",
+  "active": "b637f08bc71993d3",
   "lastOpenFiles": [
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 1 - Dotnet.md",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
-    "Emojis.md",
-    "notes/Misc/VSCode Shortcuts.md",
-    "Daily Notes/2024-11-08.md",
-    "Daily Notes/2024-11-07.md",
-    "On Going Job Applications.md",
+    "Organisation/Articles and Projects.md",
+    "notes/General Programming/Design Patterns/Design Patterns.md",
+    "Organisation/Time.md",
+    "Daily Notes/2024-11-16.md",
+    "notes/Uni Content/Software Modelling and Design/Software Modelling and Design.md",
+    "Organisation/On Going Job Applications.md",
+    "Interview Practise/Job Application Common Questions.md",
     "To Dos/To Do 2.md",
-    "Time.md",
-    "Habits.md",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Introduction.md",
-    "Images/camera_capture 5.jpg",
-    "Images/camera_capture 4.jpg",
-    "Images/camera_capture 3.jpg",
-    "Images/camera_capture 2.jpg",
-    "Images/unnamed.jpg",
-    "Images/camera_capture 1.jpg",
-    "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Walking Skeleton Part 2 - Client.md",
-    "Daily Notes/2024-11-01.md",
-    "Daily Notes/2024-11-04.md",
-    "Daily Notes/2024-11-03.md",
-    "Daily Notes/2024-11-02.md",
-    "Daily Notes/2024-10-31.md",
-    "Daily Notes/2024-10-28.md",
-    "Daily Notes/2024-10-29.md",
-    "Daily Notes/2024-10-30.md",
-    "Daily Notes/2024-11-06.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 9/Aspect Oriented Programming.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Advanced Programming Language Concepts ToC.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 8/Traits in Rust.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 4/Dependent Types.md",
-    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Programming III Notes.pdf",
-    "Git Ignore/Heavy Stuff",
-    "Images/camera_capture.jpg",
-    "Images/20241104_220006.jpg",
-    "Images/Pasted image 20241103200114.png",
-    "To Dos",
-    "Images/Pasted image 20241015225901.png",
-    "Git Ignore/Heavy Stuff/Uni PDFs/Theory of Computing.pdf",
-    "Git Ignore/Heavy Stuff/Uni PDFs/programming 1 cropped.pdf",
-    "Git Ignore/Heavy Stuff/Uni PDFs/programming language concepts rotated cropped.pdf",
-    "Git Ignore/Heavy Stuff/Uni PDFs/Programming 3.pdf",
-    "Git Ignore/Heavy Stuff/Uni PDFs/Programming 2.pdf",
+    "Organisation/Emojis.md",
+    "notes/General Programming/Design Patterns/Adapter.md",
+    "Organisation/Habits.md",
+    "Organisation/Study Plan.md",
+    "Git Ignore/Heavy Stuff/Uni PDFs/software modelling and design rotated cropped.pdf",
+    "Daily Notes/2024-11-15.md",
     "Git Ignore/Heavy Stuff/Uni PDFs/algorithmics rotated cropped.pdf",
-    "Git Ignore/Heavy Stuff/Uni PDFs/Distributed Systems and Networks.pdf",
+    "Daily Notes/2024-11-09.md",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Software Modelling and Design Notes.pdf",
+    "notes/Uni Content/Programming 2/Programming II ToC.md",
+    "Uni Notes Index.md",
+    "_index.md",
+    "notes/General Programming/Sorting/Merge Sort.md",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Algorithmics Notes.pdf",
+    "Daily Notes/2024-11-14.md",
+    "notes/General Programming/Sorting/Insertion Sort.md",
+    "Images/Algorithmics Notes 3.png",
+    "Images/Algorithmics Notes 2.png",
+    "Images/merge-sort.gif",
+    "Images/algorithmics rotated cropped 6.png",
+    "notes/General Programming/Sorting/Stable Sorting.md",
+    "Images/Insertion-sorting.png",
+    "notes/General Programming/Sorting/In-Place Sorting.md",
+    "notes/General Programming/Design Patterns/Decorator.md",
+    "Images/algorithmics rotated cropped 5.png",
+    "Images/algorithmics rotated cropped 4.png",
+    "notes/Uni Content/Algorithmics/Algorithmics.md",
+    "notes/General Programming/Sorting",
+    "Organisation",
+    "notes/General Programming/Trees",
+    "notes/General Programming/Design Patterns/Observer.md",
+    "Images/Software Modelling and Design Notes 1.png",
+    "Daily Notes/2024-11-13.md",
+    "Images/Decoratorpatternclassdiagram.jpg",
+    "Images/Class-Diagram-of-Adapter-Design-Pattern_.webp",
+    "notes/General Programming/Design Patterns",
+    "Git Ignore/Heavy Stuff/Uni PDFs/Programming 2.pdf",
+    "Git Ignore/Heavy Stuff/Lecture Slides/PLC-Connected.pdf",
     "File IO.canvas",
     "To Do/Projects.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
