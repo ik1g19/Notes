@@ -13,56 +13,64 @@
 
 ### Implement Data Structures
 
-| Status | Problem                         |
-| ------ | ------------------------------- |
-|        | Dynamic Array (Resizable Array) |
-|        | Singly Linked List              |
-|        | Double-ended Queue              |
-|        | Binary Search Tree              |
-|        | Hash Table                      |
-|        | Heap                            |
-|        | Graph                           |
-|        | Disjoint Set (Union-Find)       |
-|        | Segment Tree                    |
+| Memorized Implementation | Notes | Problem                         |
+| ------------------------ | ----- | ------------------------------- |
+|                          |       | Dynamic Array (Resizable Array) |
+|                          |       | Singly Linked List              |
+|                          |       | Double-ended Queue              |
+|                          |       | Binary Search Tree              |
+|                          |       | Hash Table                      |
+|                          |       | Heap                            |
+|                          |       | Graph                           |
+|                          |       | Disjoint Set (Union-Find)       |
+|                          |       | Segment Tree                    |
 
 
 ### Sorting
 
-| Status | Problem        |
-| ------ | -------------- |
-| ✅      | Insertion Sort |
-| ✅      | Merge Sort     |
-|        | Quick Sort     |
+| Memorized Implementation | Notes | Problem        |
+| ------------------------ | ----- | -------------- |
+|                          | ✅     | Insertion Sort |
+|                          | ✅     | Merge Sort     |
+|                          |       | Quick Sort     |
 
 
 ### Graphs
 
-| Status | Problem                     |
-| ------ | --------------------------- |
-|        | Matrix Depth-First Search   |
-|        | Matrix Breadth-First Search |
-|        | Dijkstra's Algorithm        |
-|        | Prim's Algorithm            |
-|        | Kruskal's Algorithm         |
-|        | Topological Sort            |
+| Memorized Implementation | Notes | Problem                     |
+| ------------------------ | ----- | --------------------------- |
+|                          |       | Matrix Depth-First Search   |
+|                          |       | Matrix Breadth-First Search |
+|                          |       | Dijkstra's Algorithm        |
+|                          |       | Prim's Algorithm            |
+|                          |       | Kruskal's Algorithm         |
+|                          |       | Topological Sort            |
 
 ### Design Patterns
 
-| Status | Problem                |
-| ------ | ---------------------- |
-| ✅      | Factory Method Pattern |
-| ✅      | Singleton Pattern      |
-| ✅      | Builder Pattern        |
-|        | Prototype Pattern      |
-| ✅      | Adapter Pattern        |
-| ✅      | Decorator Pattern      |
-|        | Facade Pattern         |
-|        | Strategy Pattern       |
-| ✅      | Observer Pattern       |
-|        | State Pattern          |
+| Memorized Implementation | Notes | Problem                |
+| ------------------------ | ----- | ---------------------- |
+|                          | ✅     | Factory Method Pattern |
+|                          | ✅     | Singleton Pattern      |
+|                          | ✅     | Builder Pattern        |
+|                          |       | Prototype Pattern      |
+|                          | ✅     | Adapter Pattern        |
+|                          | ✅     | Decorator Pattern      |
+|                          |       | Facade Pattern         |
+|                          |       | Strategy Pattern       |
+|                          | ✅     | Observer Pattern       |
+|                          |       | State Pattern          |
+
+
+
+
+
 
 
 |     | Inheritance vs. Composition |
 | --- | --------------------------- |
+
+
+
 
 See [[notes/Uni Content/Advanced Programming Language Concepts/Week 8/Software Composition|Software Composition]]

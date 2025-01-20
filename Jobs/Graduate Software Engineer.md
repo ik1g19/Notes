@@ -1,0 +1,10 @@
+---
+recruiter: 
+employer: Leonardo
+status: Online Assessment
+ongoing?: 
+---
+
+#job
+
+Date Applied: [[Daily Notes/2024-11-08|2024-11-08]]

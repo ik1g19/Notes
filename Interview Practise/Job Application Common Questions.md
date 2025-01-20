@@ -1,10 +1,12 @@
 # STAR Question
 
+People overlook **Result** a lot, focus on explaining how you actions exactly impacted, and how exactly you know the result e.g. a retrospective
+
 **SITUATION:** During my internship at Audioscenic, we were collecting data on different lenses and camera types for spatial audio speakers, but we lacked a way to visualize the data effectively.
 
 **ACTIONS:** I took the initiative to develop a GUI data visualization program using Python Qt, which allowed us to better interpret and analyse the collected data using 3D spatial data visualization and frame-by-frame face landmark analysis.
 
-**RESULTS:** My supervisors were impressed with the program, and it was adopted for internal use, enhancing our data analysis process.
+**RESULTS:** My supervisor was impressed and sat me down with the head of R&D to demonstrate how to use the program and its practicality. R&D were very impressed and showed me the internal QT development framework at the company and encouraged me to learn how to use them
 
 # Please list any other academic or non-academic achievements
 
@@ -20,7 +22,13 @@ Later, in my fourth year, I worked on a more complex project involving multi-per
 
 # Why have you applied for the role at **Blank**?
 
-In addition, I’m particularly enthusiastic about the chance to work in a fast-paced, real-time environment where software reliability and performance have a direct impact on the day-to-day operations of the airport. My experience in agile development, data visualization, and system optimization would allow me to make valuable contributions to projects at Gatwick, especially those focused on improving data-driven insights and operational efficiencies. Overall, I believe that working at London Gatwick would be a fantastic opportunity to grow professionally while contributing to meaningful projects and also learning from my peers
+I applied for the Digital Data Graduate role at National Highways because it offers a unique opportunity to contribute to an organization that plays a critical role in the nation’s infrastructure. The chance to work with data in a way that directly impacts road safety, efficiency, and innovation resonates deeply with my interests and career aspirations.
+
+What excites me most is the opportunity to be part of the Chief Data Office team, where I can develop skills in managing and leveraging data while ensuring its safety and compliance. I’m particularly drawn to the Digital Lab, as it offers the chance to engage in cutting-edge projects that harness the potential of data science to create innovative solutions. I see this as a perfect fit for my enthusiasm for problem-solving and my desire to learn and grow in a dynamic and impactful environment.
+
+Moreover, the structured development programme, with its combination of workshops, mentoring, and hands-on experience, aligns perfectly with my goal of building a solid foundation in the field of data. The permanent contract and focus on employee growth highlight the organization’s commitment to its people, which is something I value deeply.
+
+In summary, the role aligns with my personal values, my eagerness to work with data to make a meaningful impact, and my ambition to develop my career in a forward-thinking and supportive organization like National Highways.
 
 # Please tell us about a time you had to learn a new skill, and describe the steps you took to make sure you successfully mastered the skill. What was the outcome
 
@@ -60,6 +68,106 @@ I believe experiences like these are highly transferable to a team such as Gatwi
 
 For me, maintaining ethical values, team morale and producing deliverables are most important to the workplace culture. When working with a team, I think it is important that all members of the team share a passion for the ethics of the project such as sustainability
 
-Secondly, I believe that maintaing a positive team morale is integral to a successful project, through team bonding, respect and frequent communication. Team members should feel incentivised to assist each other and provide inspiration
+Secondly, I believe that maintaining a positive team morale is integral to a successful project, through team bonding, respect and frequent communication. Team members should feel incentivised to assist each other and provide inspiration
 
 Lastly, I believe that in order for a project to continue running, all members of the team need to respect and value the importance of maintaining consistent project deliverables. This is why I believe it is important for employees to be able to help and work with each other, since one team member falling behind means the whole project falls behind
+
+# Please detail any current and previous work experience highlighting, company name, date range and a brief role summary. Please include key responsibilities and achievements
+
+Audioscenic (June – August 2023)
+Role: Computer Vision Research and Development – User Position Tracking Systems
+
+During my time at Audioscenic, I led research initiatives in the field of head pose estimation for user position tracking systems. My responsibilities included:
+
+-  Designing and implementing programs for data collection and visualization to support research efforts
+-  Researching State-of-the-art techniques for head pose estimation
+
+Key achievements:
+
+-  Developed a robust protocol for data collection in head pose estimation
+-  Developed skills in Python, QT and VTK
+
+
+# Provide an example of how you have demonstrated, or aspire to live one of our values. Please be sure to highlight why your chosen example is important to you
+
+Previously, I have demonstrated Amentum’s commitment to delivering on every commitment. While working on a Software Engineering Group project, I attended lectures on timeline management using Gantt charts. After designing a Gantt chart for that semester’s project, I realized the importance of effective timeline management. I now consistently apply this design in my own projects, especially when learning new skills. When preparing for a project, I create a timeline that includes dedicated periods for learning and development, along with milestones to track my progress
+
+
+
+
+
+
+As part of your response, please make sure you talk about:
+•	Why you want to work specifically for National Highways
+•	What you know about National Highways and what we do
+•	Why you have applied for your specific programme
+•	How this role fits in with your long-term career aspirations 
+
+
+
+
+
+ On the programme you’ll work on a variety of projects, in different teams, and are likely to have a level of responsibility early on. How do you feel about taking on significant responsibility at this stage in your career? (1.5 minutes thinking time, 3 minutes response time)
+
+
+
+
+
+
+As part of your response, please make sure you consider and discuss:
+•	How do you feel about working on a variety of projects and with different people?
+•	How will you manage working on a variety of projects and with different people? 
+
+
+
+
+
+ Please tell us about a time you had to deliver an important piece of work, task, or project to a deadline. How did you go about this?  (1.5 minutes thinking time, 4.5 minutes response time)
+
+As part of your response, please make sure you talk about:
+•	How you approached the piece of work, task or project
+•	What support you needed
+•	How you ensured you met the deadline
+•	How you balanced meeting the deadline with a quality output
+•	Any problems or challenges you faced 
+
+
+
+
+
+
+Give an example of a time you received feedback on work or a deliverable
+- How you felt receiving the feedback
+- blah blah
+- What was the result
+Used my midterms as an example
+
+
+
+
+
+
+
+
+
+Isaac is a dynamic and technically adept individual with hands-on experience in software development and project management. His journey into tech was sparked by a fascination with solving complex problems and crafting elegant solutions.
+
+Isaac has excelled in multiple team projects involving Agile development methodologies, SCRUM and Gantt chart timeline management . For instance, his involvement in a group design project creating a GUI with JavaFX and a SQL backend to visualize data. His advanced academic projects, such as another team project, multi-person 3D pose estimation using mmWave radars, highlight his technical expertise and innovative problem-solving approach. Isaac has studied many languages before such as typescript, rust, haskell, HTML/CSS/JS - but is most proficient in Java, C++ and Python.
+
+Beyond tech, Isaac channels creativity into music, playing guitar and piano, and composing original pieces, demonstrating a well-rounded and driven personality.
+
+
+- Led research initiatives on head pose estimation techniques.
+- Designed and implemented tools for data visualization and data collection using QT and VTK for Python
+- Conducted research into deep learning methodologies to improve pose estimation accuracy
+- Attended frequent team meetings and shared regular progress updates
+
+
+What skills are you interested in learning with us? And why do you think they will help you at your position with us?
+
+What actions are you going to take to ensure your growth and development at this position?
+
+
+# Any Questions
+
+- When will I find out

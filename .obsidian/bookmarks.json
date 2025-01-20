@@ -2,11 +2,6 @@
   "items": [
     {
       "type": "file",
-      "ctime": 1730849031090,
-      "path": "Organisation/Habits.md"
-    },
-    {
-      "type": "file",
       "ctime": 1730849037185,
       "path": "Organisation/On Going Job Applications.md"
     },
@@ -33,12 +28,27 @@
     {
       "type": "file",
       "ctime": 1731342757608,
-      "path": "notes/Courses/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md"
+      "path": "notes/Courses and Tutorials/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md"
     },
     {
       "type": "file",
       "ctime": 1731357168376,
       "path": "_index.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1731966946321,
+      "path": "Jobs DB.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1732224139410,
+      "path": "Templates/Daily Notes Template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1732225793948,
+      "path": "notes/Leetcode Exercises/Leetcode DB.md"
     }
   ]
 }

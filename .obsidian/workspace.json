@@ -4,95 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "51ba92d73603fc62",
+        "id": "b0e369deaa4854e4",
         "type": "tabs",
         "children": [
           {
-            "id": "35d44ff026cf6573",
+            "id": "e6f6dd1c2d2cd3fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Practise/Job Application Common Questions.md",
+                "file": "HMLR Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Application Common Questions"
+              "title": "HMLR Info"
             }
           },
           {
-            "id": "9de0a94f6abab1a3",
+            "id": "288e4e9d86dac541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisation/Articles and Projects.md",
+                "file": "notes/Misc/Sparta Global Automation Engineering Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articles and Projects"
-            }
-          },
-          {
-            "id": "5041f70fe22495c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Uni Content/Software Modelling and Design/Software Modelling and Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software Modelling and Design"
-            }
-          },
-          {
-            "id": "fb14688ed0bb1143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2024-11-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-16"
-            }
-          },
-          {
-            "id": "5189ab4978d60ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/On Going Job Applications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "On Going Job Applications"
-            }
-          },
-          {
-            "id": "b637f08bc71993d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/Time.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time"
+              "title": "Sparta Global Automation Engineering Training"
             }
           }
         ],
-        "currentTab": 5,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,30 +47,9 @@
     "type": "split",
     "children": [
       {
-        "id": "a641f4a8c5c82e26",
-        "type": "tabs",
-        "dimension": 28.109201213346815,
-        "children": [
-          {
-            "id": "1a86e52952410c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/Emojis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emojis"
-            }
-          }
-        ]
-      },
-      {
         "id": "0f3daab51bd93ba7",
         "type": "tabs",
-        "dimension": 42.871587462082914,
+        "dimension": 73.30637007077857,
         "children": [
           {
             "id": "4e9c10e8f4b42768",
@@ -134,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#udemy-course",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,24 +89,14 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "cf2b059634f1771c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cb0132838d04e325",
         "type": "tabs",
-        "dimension": 29.01921132457027,
+        "dimension": 26.693629929221437,
         "children": [
           {
             "id": "6456cff3682d6554",
@@ -191,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organisation/Time.md",
+                "file": "notes/Misc/Sparta Global Automation Engineering Training.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,15 +140,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Time"
+              "title": "Graph of Sparta Global Automation Engineering Training"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 390.5
   },
   "right": {
     "id": "f4b7d22dc5da4834",
@@ -244,7 +156,7 @@
       {
         "id": "d57430881c33913d",
         "type": "tabs",
-        "dimension": 45.48148148148148,
+        "dimension": 32.97769156159069,
         "children": [
           {
             "id": "3122ff376677c2ef",
@@ -265,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisation/Time.md",
+                "file": "Organisation/Articles and Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Time"
+              "title": "Backlinks for Articles and Projects"
             }
           },
           {
@@ -284,21 +196,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-11-03.md",
+                "file": "Daily Notes/2024-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-03"
+              "title": "Outgoing links from 2024-11-29"
+            }
+          },
+          {
+            "id": "70314fd18f3d476e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bf6a0ae8acdbe304",
         "type": "tabs",
-        "dimension": 54.51851851851852,
+        "dimension": 47.623666343355964,
         "children": [
           {
             "id": "1d4b292b3b9eb6a2",
@@ -306,17 +227,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisation/Time.md"
+                "file": "notes/Misc/Sparta Global Automation Engineering Training.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Time"
+              "title": "Outline of Sparta Global Automation Engineering Training"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd8655d0e20b0f12",
+        "type": "tabs",
+        "dimension": 19.398642095053344,
+        "children": [
+          {
+            "id": "1a86e52952410c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation/Emojis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emojis"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,57 +277,58 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "b637f08bc71993d3",
+  "active": "288e4e9d86dac541",
   "lastOpenFiles": [
-    "Organisation/Articles and Projects.md",
-    "notes/General Programming/Design Patterns/Design Patterns.md",
-    "Organisation/Time.md",
-    "Daily Notes/2024-11-16.md",
-    "notes/Uni Content/Software Modelling and Design/Software Modelling and Design.md",
-    "Organisation/On Going Job Applications.md",
+    "Images/Pasted image 20250120135433.png",
+    "Images/Pasted image 20250120135358.png",
+    "Images/Pasted image 20250120135338.png",
+    "Images/Pasted image 20250120135304.png",
+    "Images/Pasted image 20250120135244.png",
+    "Images/Pasted image 20250120135221.png",
+    "Images/Pasted image 20250120135159.png",
+    "Images/Pasted image 20250120135129.png",
+    "Images/Pasted image 20250120135024.png",
+    "HMLR Info.md",
+    "notes/Misc/Sparta Global Automation Engineering Training.md",
+    "Music/Exist Music for a Film.md",
+    "Music/Keys and Chords/FSharp.md",
+    "Images/Pasted image 20250120101741.png",
+    "Music/Keys and Chords/Bm.md",
+    "Images/Pasted image 20250120101319.png",
+    "Music/Keys and Chords",
+    "HMLR Interview Preparation.md",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/3226 - Web + Cloud Based Security.pdf",
     "Interview Practise/Job Application Common Questions.md",
-    "To Dos/To Do 2.md",
-    "Organisation/Emojis.md",
-    "notes/General Programming/Design Patterns/Adapter.md",
-    "Organisation/Habits.md",
-    "Organisation/Study Plan.md",
-    "Git Ignore/Heavy Stuff/Uni PDFs/software modelling and design rotated cropped.pdf",
-    "Daily Notes/2024-11-15.md",
-    "Git Ignore/Heavy Stuff/Uni PDFs/algorithmics rotated cropped.pdf",
-    "Daily Notes/2024-11-09.md",
-    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Software Modelling and Design Notes.pdf",
-    "notes/Uni Content/Programming 2/Programming II ToC.md",
-    "Uni Notes Index.md",
-    "_index.md",
-    "notes/General Programming/Sorting/Merge Sort.md",
-    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Algorithmics Notes.pdf",
-    "Daily Notes/2024-11-14.md",
-    "notes/General Programming/Sorting/Insertion Sort.md",
-    "Images/Algorithmics Notes 3.png",
-    "Images/Algorithmics Notes 2.png",
-    "Images/merge-sort.gif",
-    "Images/algorithmics rotated cropped 6.png",
-    "notes/General Programming/Sorting/Stable Sorting.md",
-    "Images/Insertion-sorting.png",
-    "notes/General Programming/Sorting/In-Place Sorting.md",
-    "notes/General Programming/Design Patterns/Decorator.md",
-    "Images/algorithmics rotated cropped 5.png",
-    "Images/algorithmics rotated cropped 4.png",
-    "notes/Uni Content/Algorithmics/Algorithmics.md",
-    "notes/General Programming/Sorting",
-    "Organisation",
-    "notes/General Programming/Trees",
-    "notes/General Programming/Design Patterns/Observer.md",
-    "Images/Software Modelling and Design Notes 1.png",
-    "Daily Notes/2024-11-13.md",
-    "Images/Decoratorpatternclassdiagram.jpg",
-    "Images/Class-Diagram-of-Adapter-Design-Pattern_.webp",
-    "notes/General Programming/Design Patterns",
+    "Defects.md",
+    "Interview Practise/Common Technical Interview Questions.md",
     "Git Ignore/Heavy Stuff/Uni PDFs/Programming 2.pdf",
-    "Git Ignore/Heavy Stuff/Lecture Slides/PLC-Connected.pdf",
+    "notes/Courses and Tutorials/Django Training/Starting your Django Project.md",
+    "notes/Uni Content/Programming 2/Programming II ToC.md",
+    "notes/Courses and Tutorials/Django Training/Django Essentials ToC.md",
+    "notes/Courses and Tutorials/Django Training/Login, Logout and Signup.md",
+    "notes/Courses and Tutorials/Django Training/How Django Interacts with Databases.md",
+    "notes/Courses and Tutorials/Django Training/Django Built in User Management.md",
+    "notes/Java/IntelliJ Shortcuts.md",
+    "Organisation/Emojis.md",
+    "notes/Courses and Tutorials/Udemy Courses/Complete guide to building an app with DotNet Core and React/Creating a CRUD Application using the CQRS and Mediator Pattern.md",
+    "notes/General Programming/GitHub Actions.md",
+    "notes/General Programming/Git.md",
+    "notes/Courses and Tutorials/Udemy Courses/Complete guide to building an app with DotNet Core and React/Complete guide to building an app with Net Core and React ToC.md",
+    "notes/Courses and Tutorials/Udemy Courses/NodeJS - The Complete Guide/NodeJS - The Complete Guide ToC.md",
+    "notes/Java/Maven.md",
+    "notes/General Programming/CICD.md",
+    "notes/Java/Hamcrest.md",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Software Engineering Group Project Notes.pdf",
+    "Git Ignore/Heavy Stuff/Matthew Barnes Notes/Algorithmics Notes.pdf",
+    "notes/Python",
+    "notes/General Programming/Searching",
+    "notes/Courses and Tutorials/WPF Tutorial",
+    "Interview Practise/Accolite",
+    "Music",
     "File IO.canvas",
     "To Do/Projects.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
